@@ -370,7 +370,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
       propertyPath: m_Name
-      value: CruiseShip
+      value: vapur
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
@@ -618,6 +618,24 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
+--- !u!1 &727666112 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
+  m_PrefabInstance: {fileID: 1562478587}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &727666116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727666112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae87aec86785554ea7b642c886f3356, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 7
 --- !u!1 &822966893
 GameObject:
   m_ObjectHideFlags: 0
@@ -715,6 +733,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &836752294 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
+  m_PrefabInstance: {fileID: 1741709519}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &836752298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 836752294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 839080489c602ab4ca8574c649144eb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 7
 --- !u!1001 &943752273
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -744,7 +780,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 35e156872b374e942b34e8aa1ac492d2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 35e156872b374e942b34e8aa1ac492d2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1019,6 +1055,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: -30, y: 0, z: 0}
+--- !u!1 &1067041905 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
+  m_PrefabInstance: {fileID: 657567850}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1067041909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067041905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b1021137e7fed44495e0e4840ca5253, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 7
 --- !u!1001 &1134002748
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1479,8 +1533,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1559383438}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 150, y: 150, z: 150}
+  m_LocalPosition: {x: 16, y: 0, z: 142}
+  m_LocalScale: {x: 82, y: 150, z: 82}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1539,7 +1593,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
       propertyPath: m_Name
-      value: CruiseShip (1)
+      value: vapur1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
@@ -1758,7 +1812,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 274.33356
+      value: 274.3336
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1790,7 +1844,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
       propertyPath: m_Name
-      value: CruiseShip (2)
+      value: vapur2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1d11efce0f08f41af002f7337dd7e5, type: 3}
