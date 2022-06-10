@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//
+
 public class vapur2Movement : MonoBehaviour
 {
     public float speed = 2.5f;
