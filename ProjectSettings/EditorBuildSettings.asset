@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ciragan.unity
     guid: 67ef443face821e4b993d66467850834
+  - enabled: 1
+    path: Assets/Scenes/Galata.unity
+    guid: 76fcb97255519402e8c1e1b9eeb87b11
+  - enabled: 1
+    path: Assets/Scenes/KizKulesi.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Besiktas.unity
+    guid: 6f63b2f9af95b4db98bdf13469b779c6
   m_configObjects: {}
