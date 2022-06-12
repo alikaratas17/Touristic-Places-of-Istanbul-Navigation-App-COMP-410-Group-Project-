@@ -240,19 +240,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 94.4
+      value: -179.45
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.552
+      value: 38.02
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 13
+      value: 13.25
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalRotation.x
@@ -260,7 +260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalRotation.z
@@ -272,11 +272,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2463972809929553271, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
+      propertyPath: k_initial.Array.data[4]
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
