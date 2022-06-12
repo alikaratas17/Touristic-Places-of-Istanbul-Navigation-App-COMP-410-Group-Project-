@@ -480,6 +480,10 @@ PrefabInstance:
       propertyPath: m_Drag
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 2463972809929553268, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
+      propertyPath: m_AngularDrag
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 2463972809929553269, guid: c43503d64e1d84dfbb445442524dd5f8, type: 3}
       propertyPath: m_RootOrder
       value: 1
