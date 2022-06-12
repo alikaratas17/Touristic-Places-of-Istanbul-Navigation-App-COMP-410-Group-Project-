@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Besiktas.unity
     guid: 6f63b2f9af95b4db98bdf13469b779c6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5554f95fb025b42d68fa3ae94c9a0bb7
   m_configObjects: {}

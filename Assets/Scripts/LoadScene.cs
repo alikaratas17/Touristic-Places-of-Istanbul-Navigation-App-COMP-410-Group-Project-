@@ -6,8 +6,8 @@ using UnityEngine.SceneManagement;
 public class LoadScene : MonoBehaviour
 {
     void openNextScene(){
-        Debug.Log("Activated");
-        //SceneManager.LoadScene("");
+        Debug.Log("Going to Main Menu");
+        SceneManager.LoadScene("MainMenu");
 
     }
     void OnTriggerEnter(Collider other){
