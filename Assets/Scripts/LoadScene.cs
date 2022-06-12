@@ -5,12 +5,20 @@ using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
 {
-    void openNextScene(){
-        Debug.Log("Going to Main Menu");
-        SceneManager.LoadScene("MainMenu");
-
+    public void openGalata(){
+        SceneManager.LoadScene("Galata");
+    }
+    public void openBesiktas(){
+        SceneManager.LoadScene("Besiktas");
+    }
+    public void openKizKulesi(){
+        SceneManager.LoadScene("KizKulesi");
+    }
+    public void openCiragan(){
+        SceneManager.LoadScene("Ciragan");
     }
     void OnTriggerEnter(Collider other){
-        openNextScene();
+        Debug.Log("Going to Main Menu");
+        SceneManager.LoadScene("MainMenu");
     }
 }
