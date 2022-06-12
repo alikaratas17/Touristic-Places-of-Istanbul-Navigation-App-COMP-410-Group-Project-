@@ -102,7 +102,7 @@ public float [] k_initial  = {20f,20f,20f,20f,15f};
     {
         getKeyPresses();
         transform.eulerAngles =new Vector3(0, transform.eulerAngles.y,0);
-        Debug.Log(transform.eulerAngles);
+        //Debug.Log(transform.eulerAngles);
         if (turning ==1){
             transform.Rotate(-Vector3.up*0.2f);
         }
