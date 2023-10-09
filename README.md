@@ -7,3 +7,24 @@ The four places shown were:
 - Galata Tower
 - Maiden Tower
 - Ciragan Palace
+
+## Visuals
+Here, we have some sample screenshots from the scenes:
+
+### Initial Menu View
+![Initial Menu View](images/initialView.png)
+
+### Abbasaga Park, Besiktas View
+![Abbasaga Park, Besiktas View](images/abbasagaPark.png)
+
+### Maiden Tower View
+![Maiden Tower View](images/maidenTower.png)
+
+### Galata Tower View
+![Galata Tower View](images/galataTower.png)
+
+### Ciragan Palace View
+![Ciragan Palace View](images/ciraganPalace.png)
+
+
+
