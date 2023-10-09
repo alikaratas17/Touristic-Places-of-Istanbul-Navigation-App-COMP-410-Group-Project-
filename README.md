@@ -14,17 +14,17 @@ Here, we have some sample screenshots from the scenes:
 ### Initial Menu View
 ![Initial Menu View](images/initialView.png)
 
-### Abbasaga Park, Besiktas View
-![Abbasaga Park, Besiktas View](images/abbasagaPark.png)
+### Abbasaga Park, Besiktas Scene
+![Abbasaga Park, Besiktas Scene](images/abbasagaPark.png)
 
-### Maiden Tower View
-![Maiden Tower View](images/maidenTower.png)
+### Maiden Tower Scene
+![Maiden Tower Scene](images/maidenTower.png)
 
-### Galata Tower View
-![Galata Tower View](images/galataTower.png)
+### Galata Tower Scene
+![Galata Tower Scene](images/galataTower.png)
 
-### Ciragan Palace View
-![Ciragan Palace View](images/ciraganPalace.png)
+### Ciragan Palace Scene
+![Ciragan Palace Scene](images/ciraganPalace.png)
 
 
 
